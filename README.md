@@ -23,11 +23,22 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
-![C Language Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png){:height="40px" width="40px"}  
-C
+## Skills
 
-![C++ Language Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg){:height="40px" width="40px"}  
-C++
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <div style="display: flex; align-items: center; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f5f5f5; cursor: default;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="height:24px; width:24px; margin-right: 8px;">
+    <span style="font-weight: bold; font-family: Arial, sans-serif;">C</span>
+  </div>
+
+  <div style="display: flex; align-items: center; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f5f5f5; cursor: default;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="height:24px; width:24px; margin-right: 8px;">
+    <span style="font-weight: bold; font-family: Arial, sans-serif;">C++</span>
+  </div>
+
+</div>
+
 
 
 - Frameworks: Spring, React, Node.js  
