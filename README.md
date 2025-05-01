@@ -23,14 +23,16 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C++</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C#</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Java</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">JavaScript</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">PHP</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Python</button>
-  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Flutter</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">C</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">C++</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Dart</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Java</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Flutter</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Apache</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">MySQL</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Firebase</button>
+<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">SQLite</button>
+
 
 - Frameworks: Spring, React, Node.js  
 - Databases: MySQL, MongoDB
