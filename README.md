@@ -23,20 +23,19 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
-C C++ Dart Java Flutter Apache MySQL Firebase SQLite
+
 
 
 - Frameworks: Spring, React, Node.js  
 - Databases: MySQL, MongoDB
 
-
-## Experience
-### Software Developer at XYZ Corp
-- Developed and maintained web applications.
-- Collaborated with cross-functional teams.
-
 ## Education
-- B.S. in Computer Science, University of Example
+- BSC.IT in Computer Science, University of Saurashtra .
+- Data Science from Creative Design and Multimedia Institute .
+- flutter form self learn .
 
+/*
 ## Projects
 - [Project Name](https://github.com/johndoe/project): Brief description of the project.
+
+- */
