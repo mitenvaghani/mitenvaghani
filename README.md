@@ -34,8 +34,8 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 - Data Science from Creative Design and Multimedia Institute .
 - flutter form self learn .
 
-/*
+<!--
 ## Projects
 - [Project Name](https://github.com/johndoe/project): Brief description of the project.
 
-- */
+- -->
