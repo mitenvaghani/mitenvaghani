@@ -36,6 +36,9 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="height:24px; width:24px; margin-right: 8px;">
     <span style="font-weight: bold; font-family: Arial, sans-serif;">C++</span>
   </div>
+    <div style="display: flex; align-items: center; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f5f5f5; cursor: default;">
+      <button> c </button>
+  </div>
 
 </div>
 
