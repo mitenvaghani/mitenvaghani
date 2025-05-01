@@ -23,15 +23,19 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">C</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">C++</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Dart</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Java</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Flutter</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Apache</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">MySQL</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">Firebase</button>
-<button style="margin: 3px; padding: 6px 12px; border-radius: 6px; border: 1px solid #888; background-color: #e0e0e0; cursor: default; font-weight: bold;">SQLite</button>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="C"><title>C</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">C</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="C++"><title>C++</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">C++</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Dart"><title>Dart</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Dart</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Java"><title>Java</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Java</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Flutter"><title>Flutter</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Flutter</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Apache"><title>Apache</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Apache</text></g></svg> </div>
 
 
 - Frameworks: Spring, React, Node.js  
