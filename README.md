@@ -6,7 +6,7 @@
 - 💬 Ask me about software development, coding, and my learning journey in BSC.IT.
 - 📫 How to reach me: [vaghanimiten@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/vaghani-miten-b255312b6/?originalSubdomain=in).
 - 😄 Pronouns: He/Him (or your preferred pronouns)
-- ⚡ Fun fact: I am currently studying Bachelor of Science in Information Technology, 5th semester.
+- ⚡ Fun fact: I am currently studying Bachelor of Science in Information Technology, 5th semester and I Learn Data Since Course .
 
 ## Contact Information
 - Email: vaghanimiten@gmail.com
