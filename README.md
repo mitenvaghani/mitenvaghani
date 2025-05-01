@@ -30,9 +30,9 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 - Databases: MySQL, MongoDB
 
 ## Education
-- BSC.IT in Computer Science, University of Saurashtra .
-- Data Science from Creative Design and Multimedia Institute .
-- flutter form self learn .
+- BSC.IT in Computer Science from University of Saurashtra .
+- Data Science course from Creative Design and Multimedia Institute .
+- flutter form self learn via youtube .
 
 <!--
 ## Projects
