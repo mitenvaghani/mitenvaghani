@@ -23,7 +23,11 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
+![C Language Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png){:height="40px" width="40px"}  
+C
 
+![C++ Language Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg){:height="40px" width="40px"}  
+C++
 
 
 - Frameworks: Spring, React, Node.js  
