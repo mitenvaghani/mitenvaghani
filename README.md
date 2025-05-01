@@ -23,7 +23,7 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 ## Skills
 
 - Programming Languages:  
-[![c](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)]
+[![c](https://camo.githubusercontent.com/c3fd6682e8cca0f7c262a00f94ef0f65cadd0c8470669a2d7d6f3614e81b10c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)]
 
 <svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="C"><title>C</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">C</text></g></svg>
 
