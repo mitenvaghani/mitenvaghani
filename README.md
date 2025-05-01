@@ -37,7 +37,7 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
     <span style="font-weight: bold; font-family: Arial, sans-serif;">C++</span>
   </div>
     <div style="display: flex; align-items: center; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f5f5f5; cursor: default;">
-      <button> c </button>
+      <button style="background-color:red"> c </button>
   </div>
 
 </div>
