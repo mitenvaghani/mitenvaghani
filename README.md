@@ -21,9 +21,20 @@ I am currently a fifth-semester student pursuing a Bachelor of Science in Inform
 As a self-motivated and hardworking fresher, I am seeking an opportunity to work in a challenging environment where I can prove my skills and utilize my knowledge and intelligence for the growth of the organization. I am also currently enrolled in a **Data Science course**
 
 ## Skills
-- Programming Languages: Java, Python, JavaScript
-- Frameworks: Spring, React, Node.js
+
+- Programming Languages:  
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C++</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">C#</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Java</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">JavaScript</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">PHP</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Python</button>
+  <button style="margin: 2px; padding: 5px 10px; border-radius: 5px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: default;">Flutter</button>
+
+- Frameworks: Spring, React, Node.js  
 - Databases: MySQL, MongoDB
+
 
 ## Experience
 ### Software Developer at XYZ Corp
