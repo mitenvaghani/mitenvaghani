@@ -16,7 +16,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaghani_miten/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaghani-miten-b255312b6/?originalSubdomain=in)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
 
 ## Summary
-A passionate software developer with experience in building scalable web applications.
+I am currently a fifth-semester student pursuing a Bachelor of Science in Information Technology (BSC.IT) at Geetanjali College, affiliated with Saurashtra University. I am eager to deepen my understanding of advanced programming concepts and explore innovative project ideas and Currently enhancing my
+skills at Creative Design and Multimedia Institute, I am Selfmotivated and hardworking fresher seeking for an
+opportunity to work in a challenging environment to prove
+my skills and utilize my knowledge & intelligence in the
+growth of the organization.
 
 ## Skills
 - Programming Languages: Java, Python, JavaScript
