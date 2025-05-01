@@ -31,10 +31,12 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 
 - Frameworks:
   
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238A32B1.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-- Databases: MySQL, MongoDB
+- Databases and Server:
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-%230078D7.svg?style=for-the-badge&logo=xampp&logoColor=white)  ![WAMP](https://img.shields.io/badge/wampserver-%23E37222.svg?style=for-the-badge&logo=wampserver&logoColor=white) 
 
 ## Education
 - BSC.IT in Computer Science from University of Saurashtra .
