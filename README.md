@@ -24,18 +24,7 @@ As a self-motivated and hardworking fresher, I am seeking an opportunity to work
 
 - Programming Languages:  
 (https://camo.githubusercontent.com/c3fd6682e8cca0f7c262a00f94ef0f65cadd0c8470669a2d7d6f3614e81b10c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="C"><title>C</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">C</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="C++"><title>C++</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">C++</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Dart"><title>Dart</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Dart</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Java"><title>Java</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Java</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Flutter"><title>Flutter</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Flutter</text></g></svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="52.25" height="28" role="img" aria-label="Apache"><title>Apache</title><g shape-rendering="crispEdges"><rect width="52.25" height="28" fill="#00599c"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="26" y="20" textLength="82.5" fill="#fff" font-weight="bold">Apache</text></g></svg> </div>
+(https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 
 
 - Frameworks: Spring, React, Node.js  
