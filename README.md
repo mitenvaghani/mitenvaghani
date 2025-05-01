@@ -18,7 +18,7 @@
 ## Summary
 I am currently a fifth-semester student pursuing a Bachelor of Science in Information Technology (BSC.IT) at Geetanjali College, affiliated with Saurashtra University. I am eager to deepen my understanding of advanced programming concepts and explore innovative project ideas. Additionally, I am enhancing my skills at the Creative Design and Multimedia Institute.
 
-As a self-motivated and hardworking fresher, I am seeking an opportunity to work in a challenging environment where I can prove my skills and utilize my knowledge and intelligence for the growth of the organization. I am also currently enrolled in a Data Science course
+As a self-motivated and hardworking fresher, I am seeking an opportunity to work in a challenging environment where I can prove my skills and utilize my knowledge and intelligence for the growth of the organization. I am also currently enrolled in a **Data Science course**
 
 ## Skills
 - Programming Languages: Java, Python, JavaScript
