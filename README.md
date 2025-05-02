@@ -4,16 +4,16 @@
 - 🌱 I am currently learning a Bachelor of Science in Information Technology (BSC.IT)
 - 🤔 I’m looking for help with advanced programming concepts and project ideas.
 - 💬 Ask me about software development, coding, and my learning journey in BSC.IT.
-- 📫 How to reach me: [vaghanimiten@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/vaghani-miten-b255312b6/?originalSubdomain=in).
+- 📫 How to reach me: [vaghanimiten@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/vaghani-miten-b255312b6).
 - 😄 Pronouns: He/Him (or your preferred pronouns)
 - ⚡ Fun fact: I am currently studying Bachelor of Science in Information Technology, 5th semester and I Learn Data Since Course .
 
 ## Contact Information
 - Email: vaghanimiten@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vaghani-miten-b255312b6/?originalSubdomain=in
+- LinkedIn: https://www.linkedin.com/in/vaghani-miten-b255312b6
 - GitHub: https://github.com/mitenvaghani
 
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaghani_miten/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaghani-miten-b255312b6/?originalSubdomain=in)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaghani_miten/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaghani-miten-b255312b6)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
 
 ## Summary
 I am currently a fifth-semester student pursuing a Bachelor of Science in Information Technology **(BSC.IT)** at __Geetanjali College__, affiliated with __Saurashtra University__. I am eager to deepen my understanding of advanced programming concepts and explore innovative project ideas. Additionally, I am enhancing my skills at the __Creative Design and Multimedia Institute__.
