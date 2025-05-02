@@ -1,4 +1,4 @@
-## Hi I Am Miten Vaghani 👋
+## Hi I Am Miten Vaghani 👋 @miten_vaghani
 
 - 🔭 I’m miten vaghani currently I study in Geetanjali College from Saurashtra University 
 - 🌱 I am currently learning a Bachelor of Science in Information Technology (BSC.IT)
